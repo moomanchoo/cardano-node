@@ -1,6 +1,6 @@
 {
     "activeSlotsCoeff": 0.05,
-    "systemStart": "2017-09-23T21:44:51Z",
+    "systemStart": "2017-09-23T09:44:51Z",
     "genDelegs": {},
     "updateQuorum": 12,
     "maxMajorPV": 25446,
@@ -8,14 +8,14 @@
     "initialFunds": {},
     "networkMagic": 764824073,
     "networkId": "Mainnet",
-    "epochLength": 21600,
+    "epochLength": 216000,
     "securityParam": 2160,
     "slotLength": 1,
     "slotsPerKESPeriod": 216000,
-    "maxKESEvolutions": 1080000,
+    "maxKESEvolutions": 60,
     "protocolParams": {
         "a0": 0,
-        "decentralisationParam": 0.99,
+        "decentralisationParam": 1,
         "eMax": 0,
         "extraEntropy": {
             "tag": "NeutralNonce"
